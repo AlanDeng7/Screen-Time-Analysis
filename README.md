@@ -1,7 +1,5 @@
 # Screen Time Analysis Dashboard
 
-- TL;DR: Middle age adults with lower screen time are reallocating their time to other priorities, such as sleep and various demands of their busy adult lives.
-
 ## Background and Overview
 
 This dashboard analysis focuses on **middle-aged adults** and compares their screen usage patterns to those of young adults and older adults to assess whether **middle-aged adults** are the most impacted, despite the demands of their busy lives.
